@@ -49,8 +49,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Coloring parts and changing material properties.
 
 **Session Activity:** Using the tools learned on Session 1, we’ll design a variety of items, including:
-•	A cake
-•	A Casio [MS-80B](https://www.casio.com/us/basic-calculators/product.MS-80B/) 8-digit calculator.
+* A cake
+* A Casio [MS-80B](https://www.casio.com/us/basic-calculators/product.MS-80B/) 8-digit calculator.
 
 **Session Recordings:** To be posted.
 
