@@ -50,11 +50,11 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Activity:** Using the tools learned on Session 1, we’ll design a variety of items, including:
 •	A cake
-•	A Casio MS-80B 8-digit calculator.
+•	A Casio [MS-80B](https://www.casio.com/us/basic-calculators/product.MS-80B/) 8-digit calculator.
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the Session 1 folder.
+**Session Slides:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%201) folder.
 
 ([ back to top ](#back_to_top))
 
@@ -68,18 +68,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to add a picture and sketch on it.
 
 **Session Activity:** Using the tools learned on Session 2, we’ll design a variety of items, including:
-* A United Airlines safety card (only the front side).
+* A [United Airlines safety card](https://i.ebayimg.com/images/g/Ko0AAOSwZr9Zrecv/s-l1600.jpg) (only the front side).
 * A keychain of your favorite logo. 
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the Session 2 folder.
+**Session Slides:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%202) folder.
 
 ([ back to top ](#back_to_top))
 
 ---
 <a name="S3"></a>
-### Session 3: Introduction to Solidworks!
+### Session 3: All about symmetry, patterns and planes!
 (Tuesday, June 18)
 
 **Objective:** In this session, we’ll focus our attention to symmetry, patterns and planes, and how we can leverage certain tools to simplify the design process. Session 3’s goals include: 
@@ -89,17 +89,17 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Activity:** Using the tools learned on Session 3, we’ll design a variety of items, including:
 * A fidget spinner!
-* A medieval (toy) castle.
+* A medieval ([toy](https://www.maisonette.com/product/my-first-castle)) castle.
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the Session 3 folder.
+**Session Slides:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%203) folder.
 
 ([ back to top ](#back_to_top))
 
 ---
 <a name="S4"></a>
-### Session 4: Introduction to Solidworks!
+### Session 4: Sweeping through a marble run!
 (Wednesday, June 26)
 
 **Objective:** In this session, we’ll explore two very powerful Onshape tools, loft and sweep. These tools allow us to create complicated looking geometries, like the body of a 747 or the surface of an apple. Session 4’s goals include: 
@@ -107,18 +107,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
 **Session Activity:** Using the tools learned on Session 4, we’ll design a variety of items, including:
-* A simple marble run, with rails!
+* A simple [marble run](https://montessorigeneration.com/cdn/shop/files/DTdgH93438cac19b64e6581b705060b865e37i_750x750.jpg?v=1704788664), with [rails](https://i.ytimg.com/vi/kPguktA674w/maxresdefault.jpg)!
 * A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the Session 4 folder.
+**Session Slides:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%204) folder.
 
 ([ back to top ](#back_to_top))
 
 ---
 <a name="S5"></a>
-### Session 5: Introduction to Solidworks!
+### Session 5: Let's have a 3D-modeled Coke in Space!
 (Wednesday, July 17)
 
 **Objective:** In this session, we’ll revise all of our previously learned commands (+ the useful wrap), to make sure we know how to properly use all of them. Session 5’s goals include: 
@@ -127,18 +127,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Making renders.
 
 **Session Activity:** Using the tools learned on Session 5, we’ll design a variety of items, including:
-* A Diet Coke 8oz glass bottle (with labels included).
-* A realistic-looking Ariane 5 rocket. 
+* A Diet Coke [8oz glass bottle](https://beverageuniverse.com/media/catalog/product/cache/93e8b54da979dc164f600faa0f1e0941/c/o/coca-cola-xxxr-xcdc8g-thumb.jpg) (with labels included).
+* A realistic-looking [Ariane 5](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ariane_5ES_with_ATV_4_on_its_way_to_ELA-3.jpg/1200px-Ariane_5ES_with_ATV_4_on_its_way_to_ELA-3.jpg) rocket. 
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the Session 5 folder.
+**Session Slides:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%205) folder.
 
 ([ back to top ](#back_to_top))
 
 ---
 <a name="S6"></a>
-### Session 6: Introduction to Solidworks!
+### Session 6: Living in a world made from plastic bricks!
 (Wednesday, July 24)
 
 **Objective:** In this session, we’ll move towards one of the most powerful features within CAD parametric softwares, which is that of making assemblies! Session 6’s goals include: 
@@ -146,19 +146,19 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning (time-permitting) how to make an exploded view of an assembly and subsequentially animating it.
 
 **Session Activity:** Using the tools learned on Session 6, we’ll design a variety of items, including:
-* A standard 2x4 LEGO block (as well as 2x3, 2x2 and 2x1).
-* A standard 2x4 LEGO plate.
-* A simple LEGO boat assembly.
+* A standard [2x4 LEGO block](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as 2x3, 2x2 and 2x1).
+* A standard [2x4 LEGO plate](https://www.briquestore.fr/28179-home_default/lego-6286500-plate-2x4-nougat.jpg).
+* A simple [LEGO boat](https://i.ytimg.com/vi/XxITI-DiEKo/maxresdefault.jpg) assembly.
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the Session 6 folder.
+**Session Slides:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%206) folder.
 
 ([ back to top ](#back_to_top))
 
 ---
 <a name="S7"></a>
-### Session 7: Introduction to Solidworks!
+### Session 7: Variable Tables and Equations!
 (Wednesday, July 31)
 
 **Objective:** In this session, we’ll investigate two often underappreciated yet extremely useful tools, variable tables and equations. These tools allow the user to create various configurations of the same model, depending on specific needs. Session 7’s goals include:
@@ -171,13 +171,13 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the Session 7 folder.
+**Session Slides:** Available at the [Session 7](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%207) folder.
 
 ([ back to top ](#back_to_top))
 
 ---
 <a name="S8"></a>
-### Session 8: Introduction to Solidworks!
+### Session 8: It is not engineering without drawings!
 (Wednesday, August 14)
 
 **Objective:** In this last session, we’ll exploit one of Onshape’s built-in best features, its drawing-creation workspace. In essence, after creating a part or assembly model, it is possible to create an engineering drawing of it.
@@ -185,14 +185,12 @@ Session 8’s goals include:
 * Learning how to create an engineering drawing of a part and assembly (including exploded views).
 * Exploring the best-practices of drawing creation, including different formats and information to be conveyed (such as tolerancing, material properties).
 
-**Session Activity:** Using the tools learned on S8, we’ll design a variety of items, including:
-* A laser-cuttable wooden airplane model.
+**Session Activity:** Using the tools learned on Session 8, we’ll design a variety of items, including:
+* A laser-cuttable [wooden airplane](https://cdn.create.vista.com/api/media/small/179940816/stock-photo-close-view-small-wooden-toy-plane-white) model.
 * A set of engineering drawings of the plane assembly and each of its constituent parts.
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the Session 8 folder.
+**Session Slides:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%208) folder.
 
 ([ back to top ](#back_to_top))
-
-
