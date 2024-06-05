@@ -54,7 +54,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A cake
 * A Casio [MS-80B](https://www.casio.com/us/basic-calculators/product.MS-80B/) 8-digit calculator.
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=Q_6qtvsd45A.
 
 **Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%201) folder and online Onshape [Week 1](https://cad.onshape.com/documents?column=name&nodeId=deb5c173729bc9e79a49b821&resourceType=folder&sortOrder=asc) library.
 
