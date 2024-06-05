@@ -56,6 +56,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%201) folder.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%201/Cake.png" width="500"> 
+
+**Figure:** _A Colorful [Cake](https://cad.onshape.com/documents/150ef588e5b3ec622611401a/w/ff4b17ba580b30df32300e03/e/4a97aecb082779341464bf03?renderMode=0&uiState=665fdc0c89bae515e16ef094) (or something that attempts to be a cake!)_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
