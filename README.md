@@ -20,6 +20,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Prerequisites:** Willingness to have fun and think outside the box!
 
+**Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files) folder as well as at the [Onshape](https://cad.onshape.com/documents?column=name&nodeId=78317e4aded5141df9d6445c&resourceType=folder&sortOrder=asc) online library. 
+
 **Notes:**
 * The third session, on 06/18/24, falls on a Tuesday due to the Juneteenth holiday!
 
@@ -54,7 +56,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%201) folder.
+**Session Slides and File Parts:** Available at the [Session 1](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%201) folder and online Onshape [Week 1](https://cad.onshape.com/documents?column=name&nodeId=deb5c173729bc9e79a49b821&resourceType=folder&sortOrder=asc) library.
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%201/Cake.png" width="500"> 
