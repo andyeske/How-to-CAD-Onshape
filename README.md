@@ -20,7 +20,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Prerequisites:** Willingness to have fun and think outside the box!
 
-**Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files) folder as well as at the [Onshape](https://cad.onshape.com/documents?column=name&nodeId=78317e4aded5141df9d6445c&resourceType=folder&sortOrder=asc) online library. 
+**Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files) folder as well as at the online [Onshape](https://cad.onshape.com/documents?column=name&nodeId=78317e4aded5141df9d6445c&resourceType=folder&sortOrder=asc) library. 
 
 **Notes:**
 * The third session, on 06/18/24, falls on a Tuesday due to the Juneteenth holiday!
@@ -81,7 +81,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%202) folder.
+**Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%202) folder and online Onshape [Week 2](https://cad.onshape.com/documents?column=name&nodeId=31ea3c094ac1b45d4cb19bce&resourceType=folder&sortOrder=asc) library.
 
 ([ back to top ](#back_to_top))
 
@@ -101,7 +101,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%203) folder.
+**Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%203) folder and online Onshape [Week 3](https://cad.onshape.com/documents?column=name&nodeId=6547d184429411e0cab3ba87&resourceType=folder&sortOrder=asc) library.
 
 ([ back to top ](#back_to_top))
 
@@ -120,7 +120,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%204) folder.
+**Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%204) folder and online Onshape [Week 4](https://cad.onshape.com/documents?column=name&nodeId=13b2e2c2ba4ea32b2ee65dcc&resourceType=folder&sortOrder=asc) library.
 
 ([ back to top ](#back_to_top))
 
@@ -140,7 +140,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%205) folder.
+**Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%205) folder and online Onshape [Week 5](https://cad.onshape.com/documents?column=name&nodeId=af8adf062a191a648ae45eed&resourceType=folder&sortOrder=asc) library.
 
 ([ back to top ](#back_to_top))
 
@@ -160,7 +160,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%206) folder.
+**Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%206) folder and online Onshape [Week 6](https://cad.onshape.com/documents?column=name&nodeId=d017498ad96d8aed9ad9b124&resourceType=folder&sortOrder=asc) library.
 
 ([ back to top ](#back_to_top))
 
@@ -179,7 +179,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the [Session 7](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%207) folder.
+**Session Slides and File Parts:** Available at the [Session 7](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%207) folder and online Onshape [Week 7](https://cad.onshape.com/documents?column=name&nodeId=75b441b71057d0ebb88ecb67&resourceType=folder&sortOrder=asc) library.
 
 ([ back to top ](#back_to_top))
 
@@ -199,6 +199,6 @@ Session 8’s goals include:
 
 **Session Recordings:** To be posted.
 
-**Session Slides:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%208) folder.
+**Session Slides and File Parts:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%208) folderand online Onshape [Week 8](https://cad.onshape.com/documents?column=name&nodeId=9dbbc7ac2169dbecff01b7bf&resourceType=folder&sortOrder=asc) library.
 
 ([ back to top ](#back_to_top))
