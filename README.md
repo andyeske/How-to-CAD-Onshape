@@ -87,7 +87,15 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%202) folder and online Onshape [Week 2](https://cad.onshape.com/documents?column=name&nodeId=31ea3c094ac1b45d4cb19bce&resourceType=folder&sortOrder=asc) library.
+**Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%202) folder and online Onshape [Week 2](https://cad.onshape.com/documents?column=name&nodeId=31ea3c094ac1b45d4cb19bce&resourceType=folder&sortOrder=asc) library. 
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%202/United%20Safety%20Card.png" width="500"> 
+
+**Figure:** _A United [777-200](https://cad.onshape.com/documents/7e37e111393bef19e587a43e/w/1ac927c8c03fc6d0fc453fd7/e/a1b084e954b7ae2f2467e7c1) Safety Card_.
+</p>
+
+**Note:** Given that Onshape's built-in text editor is not very robust, another version of the United Safety Card is included in the session's files that was edited using Solidworks. This version has the backside text (which was also included as a PDF in the files)!
 
 ([ back to top ](#back_to_top))
 
