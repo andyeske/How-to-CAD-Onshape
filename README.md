@@ -85,7 +85,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A [United Airlines safety card](https://i.ebayimg.com/images/g/Ko0AAOSwZr9Zrecv/s-l1600.jpg) (only the front side).
 * A keychain of your favorite logo. 
 
-**Session Recordings:** https://youtu.be/crIFMNXLlOk.
+**Session Recordings:** https://www.youtube.com/watch?v=crIFMNXLlOk.
 
 **Session Slides and File Parts:** Available at the [Session 2](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%202) folder and online Onshape [Week 2](https://cad.onshape.com/documents?column=name&nodeId=31ea3c094ac1b45d4cb19bce&resourceType=folder&sortOrder=asc) library. 
 
