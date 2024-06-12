@@ -97,6 +97,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Note:** Given that Onshape's built-in text editor is not very robust, another version of the United Safety Card is included in the session's files that was edited using Solidworks. This version has the backside text (which was also included as a PDF in the files)!
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%202/Phillies.png" width="500"> 
+
+**Figure:** _A Philadelphia [Phillies](https://cad.onshape.com/documents/d3d58e4112e2aedd6bce8dcc/w/dd0077d2e3376502585ad38c/e/344392c0949d2b4ea529f4c2) Logo_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
