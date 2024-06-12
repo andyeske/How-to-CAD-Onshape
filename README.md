@@ -95,7 +95,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A United [777-200](https://cad.onshape.com/documents/7e37e111393bef19e587a43e/w/1ac927c8c03fc6d0fc453fd7/e/a1b084e954b7ae2f2467e7c1) Safety Card_.
 </p>
 
-**Note:** Given that Onshape's built-in text editor is not very robust, the United Safety card back text can be added using other softwares, such as Solidworks. For this, a PDF of the text is included in the Session 2 files. 
+**Note:** Given that Onshape's built-in text editor is not very robust, the United Safety Card back text can be added using other softwares, such as Solidworks. For this, a PDF of the text is included in the Session 2 files. 
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%202/Phillies.png" width="500"> 
