@@ -129,6 +129,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 3](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%203) folder and online Onshape [Week 3](https://cad.onshape.com/documents?column=name&nodeId=6547d184429411e0cab3ba87&resourceType=folder&sortOrder=asc) library.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%203/Toy%20Castle.png" width="500"> 
+
+**Figure:** _An attempt at the [Toy Castle](https://cad.onshape.com/documents/22f9c1449af5339bc8e245ba/w/513370f112d02152b8d2155c/e/199f0dd97fa8d6ddcee8aafe)_.
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
