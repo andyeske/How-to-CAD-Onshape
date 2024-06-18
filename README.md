@@ -141,6 +141,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _An attempt at the [Toy Castle](https://cad.onshape.com/documents/22f9c1449af5339bc8e245ba/w/513370f112d02152b8d2155c/e/199f0dd97fa8d6ddcee8aafe)_.
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%203/Dice.png" width="500"> 
+
+**Figure:** _BONUS: A 14-sided [dice](https://cad.onshape.com/documents/4a7a2fb640bb0d50c79c3a05/w/1c67790accfd5384c2389230/e/d9b7b9b2f11a98d1e75c6322)_.
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%203/Viking%20Fort.png" width="500"> 
+
+**Figure:** _BONUS: A [Viking](https://cad.onshape.com/documents/52fdc112f39551ee6835f459/w/a3a3ff5ffe32d568cf34b1ba/e/9b01d8bbdc8cfc354a31e4be) fort_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
