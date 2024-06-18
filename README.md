@@ -132,7 +132,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%203/Fidget%20Spinner.png" width="500"> 
 
-**Figure:** _An airline-theme [Fidget](https://cad.onshape.com/documents/630b45efdc997ff622d1ac3d/w/8ac9d8b41624d5a2f8bb3703/e/126d773a90bcd292ae9f294b)_ spinner.
+**Figure:** _An airline-themed [Fidget](https://cad.onshape.com/documents/630b45efdc997ff622d1ac3d/w/8ac9d8b41624d5a2f8bb3703/e/126d773a90bcd292ae9f294b)_ spinner.
 </p>
 
 <p align="left">
