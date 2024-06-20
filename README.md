@@ -172,6 +172,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%204) folder and online Onshape [Week 4](https://cad.onshape.com/documents?column=name&nodeId=13b2e2c2ba4ea32b2ee65dcc&resourceType=folder&sortOrder=asc) library.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%204/Banana.png" width="500"> 
+
+**Figure:** _A 3D-modeled [Banana](https://cad.onshape.com/documents/f4207a594511cec7431cf258/w/9c3c84e2cb47ceb424ae4aaa/e/3aee68068dab320b9515dd37)_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
