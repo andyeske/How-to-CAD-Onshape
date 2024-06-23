@@ -204,6 +204,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%205) folder and online Onshape [Week 5](https://cad.onshape.com/documents?column=name&nodeId=af8adf062a191a648ae45eed&resourceType=folder&sortOrder=asc) library.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%205/Diet%20Coke%20Bottle.png" width="500"> 
+
+**Figure:** _A Diet [Coke](https://cad.onshape.com/documents/6323076d99c2e309d1f19f4c/w/734e6902e05a56c2bfef23b0/e/c5795b9c84fd165504d96cf8) 8oz glass bottle_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
