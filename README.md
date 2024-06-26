@@ -168,7 +168,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A simple [marble run](https://montessorigeneration.com/cdn/shop/files/DTdgH93438cac19b64e6581b705060b865e37i_750x750.jpg?v=1704788664), with [rails](https://i.ytimg.com/vi/kPguktA674w/maxresdefault.jpg)!
 * A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=wueSH7qv7Y8.
 
 **Session Slides and File Parts:** Available at the [Session 4](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%204) folder and online Onshape [Week 4](https://cad.onshape.com/documents?column=name&nodeId=13b2e2c2ba4ea32b2ee65dcc&resourceType=folder&sortOrder=asc) library.
 
