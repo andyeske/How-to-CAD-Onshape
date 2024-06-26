@@ -184,6 +184,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A 3D-modeled [Banana](https://cad.onshape.com/documents/f4207a594511cec7431cf258/w/9c3c84e2cb47ceb424ae4aaa/e/3aee68068dab320b9515dd37)_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%204/Transmission%20Tower.png" width="500"> 
+
+**Figure:** _BONUS: A transmission [tower](https://cad.onshape.com/documents/fe87aa609963c1603e875b52/w/4f811d86f49ca19858cceb7b/e/cb67243887a416a90b2c1e35)_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
