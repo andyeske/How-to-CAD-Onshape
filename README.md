@@ -216,6 +216,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _A Diet [Coke](https://cad.onshape.com/documents/6323076d99c2e309d1f19f4c/w/734e6902e05a56c2bfef23b0/e/c5795b9c84fd165504d96cf8) 8oz glass bottle_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%205/Ariane%20V.png" width="500"> 
+
+**Figure:** _An [Ariane](https://cad.onshape.com/documents/9ce0027b2aee5ff60a6778e6/w/7ad4d528fc13982b06892464/e/5469673ded9988f92c1bd654) V rocket_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
