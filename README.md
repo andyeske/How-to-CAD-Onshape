@@ -206,7 +206,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A Diet Coke [8oz glass bottle](https://beverageuniverse.com/media/catalog/product/cache/93e8b54da979dc164f600faa0f1e0941/c/o/coca-cola-xxxr-xcdc8g-thumb.jpg) (with labels included).
 * A realistic-looking [Ariane 5](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ariane_5ES_with_ATV_4_on_its_way_to_ELA-3.jpg/1200px-Ariane_5ES_with_ATV_4_on_its_way_to_ELA-3.jpg) rocket. 
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=yTBb1z-NyMY.
 
 **Session Slides and File Parts:** Available at the [Session 5](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%205) folder and online Onshape [Week 5](https://cad.onshape.com/documents?column=name&nodeId=af8adf062a191a648ae45eed&resourceType=folder&sortOrder=asc) library.
 
