@@ -222,6 +222,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _An [Ariane](https://cad.onshape.com/documents/9ce0027b2aee5ff60a6778e6/w/7ad4d528fc13982b06892464/e/5469673ded9988f92c1bd654) V rocket_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%205/Apple%20Model.png" width="500"> 
+
+**Figure:** _BONUS: An [Apple](https://cad.onshape.com/documents/59cc10e9ef07748fcb4d3bf4/w/7ec86773c9119c646320a47f/e/1aa94c3ec40a915e4947b61b) Model_!
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%205/Penn%20Tennis%20Ball%20Can.png" width="500"> 
+
+**Figure:** _BONUS: A Penn [Tennis](https://cad.onshape.com/documents/15ab514a67dcb2efd342a02c/w/e8c70bbd6c100c6e2d56214e/e/76ea77cfffb20a774fdd4e20) Ball Can_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
