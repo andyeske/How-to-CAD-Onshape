@@ -254,6 +254,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%206) folder and online Onshape [Week 6](https://cad.onshape.com/documents?column=name&nodeId=d017498ad96d8aed9ad9b124&resourceType=folder&sortOrder=asc) library.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%206/LEGO%20Bricks.png" width="500"> 
+
+**Figure:** _LEGO [1x1](https://cad.onshape.com/documents/a29dce107f21589ec9d86d94/w/90c601ddd5a52c63360df803/e/1eb77ee9ea3caf2da0eb24af), [2x1](https://cad.onshape.com/documents/34ccd5fcac9b50d258909a5c/w/0addebe0558d141f11ce64f2/e/73100066b3e9a9eee4273fa1), [2x2](https://cad.onshape.com/documents/7dc8a00e47b98561270f3f97/w/70134353fe77e71a3eebd65d/e/2bef2f771012faf56d16c456), [2x3](https://cad.onshape.com/documents/0b9411ec1c536b17adf20f71/w/33367589afc1bf115be020da/e/69706c42935520160240d196), [2x4](https://cad.onshape.com/documents/b55f5e62939a35920e3aa724/w/5c2e9e14d9aa02a649f96aa1/e/81243382c90db1318cb973db) bricks and [2x4](https://cad.onshape.com/documents/9d3b583f9a81ccfa0ac6902f/w/a6eecc86a3639fa3e475e207/e/61dfc2b2734f72580b0db5ee) plate_!
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%206/LEGO%20Boat%20Assembly.png" width="500"> 
+
+**Figure:** _LEGO [Boat](https://cad.onshape.com/documents/18b24b7418e4f651a6017747/w/c414a2500a89c5ad2ae772fa/e/0d6f7d89f95565395c56d939) Assembly_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
