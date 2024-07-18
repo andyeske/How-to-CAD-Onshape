@@ -246,7 +246,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning (time-permitting) how to make an exploded view of an assembly and subsequentially animating it.
 
 **Session Activity:** Using the tools learned on Session 6, we’ll design a variety of items, including:
-* A standard [2x4 LEGO block](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as 2x3, 2x2 and 2x1).
+* A standard [2x4 LEGO brick](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as a 1x1, 2x1, 2x2, and 2x3).
 * A standard [2x4 LEGO plate](https://www.briquestore.fr/28179-home_default/lego-6286500-plate-2x4-nougat.jpg).
 * A simple [LEGO boat](https://i.ytimg.com/vi/XxITI-DiEKo/maxresdefault.jpg) assembly.
 
