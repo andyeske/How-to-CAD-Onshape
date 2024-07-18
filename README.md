@@ -266,6 +266,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _LEGO [Boat](https://cad.onshape.com/documents/18b24b7418e4f651a6017747/w/c414a2500a89c5ad2ae772fa/e/0d6f7d89f95565395c56d939) Assembly_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%206/LEGO%20Boat%20Assembly%20Drawing.png" width="500"> 
+
+**Figure:** _BONUS: LEGO [Boat](https://cad.onshape.com/documents/18b24b7418e4f651a6017747/w/c414a2500a89c5ad2ae772fa/e/0d6f7d89f95565395c56d939) Assembly Instructions Drawing_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
