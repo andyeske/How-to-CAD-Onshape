@@ -252,6 +252,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 
 **Session Recordings:** To be posted.
 
+**BONUS (LEGO Technic Helicopter!):** https://www.youtube.com/watch?v=LT2mswuwnOc.
+
 **Session Slides and File Parts:** Available at the [Session 6](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%206) folder and online Onshape [Week 6](https://cad.onshape.com/documents?column=name&nodeId=d017498ad96d8aed9ad9b124&resourceType=folder&sortOrder=asc) library.
 
 <p align="left">
