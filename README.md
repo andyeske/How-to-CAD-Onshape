@@ -272,6 +272,18 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _BONUS: LEGO [Boat](https://cad.onshape.com/documents/18b24b7418e4f651a6017747/w/c414a2500a89c5ad2ae772fa/e/0d6f7d89f95565395c56d939) Assembly Instructions Drawing_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%206/LEGO%20Helicopter.png" width="500"> 
+
+**Figure:** _BONUS: LEGO Technic [Helicopter](https://cad.onshape.com/documents/2c86d280ba3f6223ee1d979a/w/8d9d81210442d38fd3d02a94/e/b24d47594137ea3af09d69ec) Assembly, inspired from [30465](https://www.lego.com/cdn/product-assets/product.bi.core.pdf/6351217.pdf)_!
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%206/LEGO%20Helicopter%20Assembly%20Drawing.png" width="500"> 
+
+**Figure:** _BONUS: LEGO Technic [Helicopter](https://cad.onshape.com/documents/2c86d280ba3f6223ee1d979a/w/8d9d81210442d38fd3d02a94/e/b24d47594137ea3af09d69ec) Assembly Instructions Drawing_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
