@@ -286,6 +286,12 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Figure:** _BONUS: LEGO Technic [Helicopter](https://cad.onshape.com/documents/2c86d280ba3f6223ee1d979a/w/8d9d81210442d38fd3d02a94/e/b24d47594137ea3af09d69ec) Assembly Instructions Drawing_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%206/LEGO%20Minifig%20Head%20and%20Hat.png" width="500"> 
+
+**Figure:** _BONUS: LEGO Minifig [Head](https://cad.onshape.com/documents/17c23f45d122957478ec6cde/w/af1314ca72950efa7c7e6f1a/e/4cf310ec3604c2b9c8bf3d43) and [Hat](https://cad.onshape.com/documents/8f1932e8d354946335ce9b6a/w/1561e81fed2239bec6f21720/e/ac32bd3701d917773795b4ca)_!
+</p>
+
 ([ back to top ](#back_to_top))
 
 ---
