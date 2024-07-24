@@ -250,7 +250,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * A standard [2x4 LEGO plate](https://www.briquestore.fr/28179-home_default/lego-6286500-plate-2x4-nougat.jpg).
 * A simple [LEGO boat](https://i.ytimg.com/vi/XxITI-DiEKo/maxresdefault.jpg) assembly.
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://youtu.be/NBOx423EvbM.
 
 **BONUS (LEGO Technic Helicopter!):** https://www.youtube.com/watch?v=LT2mswuwnOc.
 
