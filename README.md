@@ -314,13 +314,13 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%207/MarioKarts.png" width="500"> 
 
-**Figure:** _A Standard [Kart](https://cad.onshape.com/documents/1c07726b1e0fbabc6044a2a2/w/7039593ea064c4ebb20b5281/e/52f5c095d501b1b20f187fe8) from MarioKart_!
+**Figure:** _A Standard [Kart](https://cad.onshape.com/documents/1c07726b1e0fbabc6044a2a2/w/7039593ea064c4ebb20b5281/e/52f5c095d501b1b20f187fe8) from MarioKart, with and without its glider_!
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%207/Canon%20Cameras.png" width="500"> 
 
-**Figure:** _BONUS: 6 configurations of [Canon](https://cad.onshape.com/documents/e225c91d27707a09e6b29bb3/w/7cba539c31eb85272717d5c6/e/8b6a04b54171507551875992) cameras_!
+**Figure:** _BONUS: 6 configurations of [Canon](https://cad.onshape.com/documents/e225c91d27707a09e6b29bb3/w/7cba539c31eb85272717d5c6/e/8b6a04b54171507551875992) cameras, with different sizes and lens option_!
 </p>
 
 ([ back to top ](#back_to_top))
