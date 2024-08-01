@@ -307,7 +307,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Session Activity:** Using the tools learned on Session 7, we’ll design:
 * A kart from MarioKart, using multiple configurations of kart and wheel sizes, as well as available colors.
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://www.youtube.com/watch?v=KDNyTvzounY.
 
 **Session Slides and File Parts:** Available at the [Session 7](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%207) folder and online Onshape [Week 7](https://cad.onshape.com/documents?column=name&nodeId=75b441b71057d0ebb88ecb67&resourceType=folder&sortOrder=asc) library.
 
