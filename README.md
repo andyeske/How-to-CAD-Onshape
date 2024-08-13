@@ -343,4 +343,10 @@ Session 8’s goals include:
 
 **Session Slides and File Parts:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%208) folderand online Onshape [Week 8](https://cad.onshape.com/documents?column=name&nodeId=9dbbc7ac2169dbecff01b7bf&resourceType=folder&sortOrder=asc) library.
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%208/Cessna%20154.png" width="500"> 
+
+**Figure:** _A [Cessna](https://cad.onshape.com/documents/e517ab99a067ef59dadcb3e7/w/2f27e69376ec3de6964270e6/e/1a97503c4d2c5712fdf3e3ce) 154 laser-cuttable model_!
+</p>
+
 ([ back to top ](#back_to_top))
