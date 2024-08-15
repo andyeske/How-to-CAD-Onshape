@@ -4,7 +4,7 @@ Welcome to How to CAD Almost Anything! Onshape edition. In this repository, you'
 
 ## Workshop Summary
 
-Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a mug, a bottle of Diet Coke, or a Saturn V rocket? What about designing the blades of a jet-engine? A test dummy? In this fun MIT Summer 2024 workshop, you will learn the skills to design all of these, and much more! 
+Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a MarioKart, a bottle of Diet Coke, or an Ariane V rocket? What about designing a model airplane? An apple? In this fun MIT Summer 2024 workshop, you will learn the skills to design all of these, and much more! 
 
 Split into 8 2-hour long sessions, the first half of each session will be spent learning new Onshape skills, while the second half will see the application of these new skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model. 
 
