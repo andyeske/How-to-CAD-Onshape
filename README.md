@@ -341,7 +341,7 @@ Session 8’s goals include:
 
 **Session Recordings:** To be posted.
 
-**Session Slides and File Parts:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%208) folderand online Onshape [Week 8](https://cad.onshape.com/documents?column=name&nodeId=9dbbc7ac2169dbecff01b7bf&resourceType=folder&sortOrder=asc) library.
+**Session Slides and File Parts:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%208) folder and online Onshape [Week 8](https://cad.onshape.com/documents?column=name&nodeId=9dbbc7ac2169dbecff01b7bf&resourceType=folder&sortOrder=asc) library.
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%208/Cessna%20154.png" width="500"> 
@@ -352,25 +352,25 @@ Session 8’s goals include:
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%208/Model%20Plane.png" width="500"> 
 
-**Figure:** _BONUS: A [Model](https://cad.onshape.com/documents/ad2a40b906ecdc01a56caf42/w/c05e344fea01cf626c644d42/e/0c0831dc65b5076151e54f24) Plane with stand_!
+**Figure:** _BONUS: A simplified [Model](https://cad.onshape.com/documents/ad2a40b906ecdc01a56caf42/w/c05e344fea01cf626c644d42/e/0c0831dc65b5076151e54f24) Plane with stand_!
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%208/Model%20Plane%20-%20Drawing%201.png" width="500"> 
 
-**Figure:** _BONUS: A [Model](https://cad.onshape.com/documents/ad2a40b906ecdc01a56caf42/w/c05e344fea01cf626c644d42/e/0c0831dc65b5076151e54f24) Plane Engineering Drawing - Standard Views and Part Inventory_!
+**Figure:** _BONUS: A simplified [Model](https://cad.onshape.com/documents/ad2a40b906ecdc01a56caf42/w/c05e344fea01cf626c644d42/e/0c0831dc65b5076151e54f24) Plane Engineering Drawing - Standard Views and Part Inventory_!
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%208/Model%20Plane%20-%20Drawing%202.png" width="500"> 
 
-**Figure:** _BONUS: A [Model](https://cad.onshape.com/documents/ad2a40b906ecdc01a56caf42/w/c05e344fea01cf626c644d42/e/0c0831dc65b5076151e54f24) Plane Engineering Drawing - Overall Dimensions_!
+**Figure:** _BONUS: A simplified [Model](https://cad.onshape.com/documents/ad2a40b906ecdc01a56caf42/w/c05e344fea01cf626c644d42/e/0c0831dc65b5076151e54f24) Plane Engineering Drawing - Overall Dimensions_!
 </p>
 
 <p align="left">
 <img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%208/Model%20Plane%20-%20Drawing%203.png" width="500"> 
 
-**Figure:** _BONUS: A [Model](https://cad.onshape.com/documents/ad2a40b906ecdc01a56caf42/w/c05e344fea01cf626c644d42/e/0c0831dc65b5076151e54f24) Plane Engineering Drawing - Exploded View_!
+**Figure:** _BONUS: A simplified [Model](https://cad.onshape.com/documents/ad2a40b906ecdc01a56caf42/w/c05e344fea01cf626c644d42/e/0c0831dc65b5076151e54f24) Plane Engineering Drawing - Exploded View_!
 </p>
 
 ([ back to top ](#back_to_top))
