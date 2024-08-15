@@ -339,7 +339,7 @@ Session 8’s goals include:
 * A laser-cuttable [wooden airplane](https://cdn.create.vista.com/api/media/small/179940816/stock-photo-close-view-small-wooden-toy-plane-white) model.
 * A set of engineering drawings of the plane assembly and each of its constituent parts.
 
-**Session Recordings:** To be posted.
+**Session Recordings:** https://youtu.be/raPvpM6YsX4.
 
 **Session Slides and File Parts:** Available at the [Session 8](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files/Session%208) folder and online Onshape [Week 8](https://cad.onshape.com/documents?column=name&nodeId=9dbbc7ac2169dbecff01b7bf&resourceType=folder&sortOrder=asc) library.
 
