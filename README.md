@@ -349,4 +349,28 @@ Session 8’s goals include:
 **Figure:** _A [Cessna](https://cad.onshape.com/documents/e517ab99a067ef59dadcb3e7/w/2f27e69376ec3de6964270e6/e/1a97503c4d2c5712fdf3e3ce) 154 laser-cuttable model_!
 </p>
 
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%208/Model%20Plane.png" width="500"> 
+
+**Figure:** _BONUS: A [Model](https://cad.onshape.com/documents/ad2a40b906ecdc01a56caf42/w/c05e344fea01cf626c644d42/e/0c0831dc65b5076151e54f24) Plane with stand_!
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%208/Model%20Plane%20-%20Drawing%201.png" width="500"> 
+
+**Figure:** _BONUS: A [Model](https://cad.onshape.com/documents/ad2a40b906ecdc01a56caf42/w/c05e344fea01cf626c644d42/e/0c0831dc65b5076151e54f24) Plane Engineering Drawing - Standard Views and Part Inventory_!
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%208/Model%20Plane%20-%20Drawing%202.png" width="500"> 
+
+**Figure:** _BONUS: A [Model](https://cad.onshape.com/documents/ad2a40b906ecdc01a56caf42/w/c05e344fea01cf626c644d42/e/0c0831dc65b5076151e54f24) Plane Engineering Drawing - Overall Dimensions_!
+</p>
+
+<p align="left">
+<img src="https://github.com/andyeske/How-to-CAD-Onshape/blob/main/Session%20Files/Session%208/Model%20Plane%20-%20Drawing%203.png" width="500"> 
+
+**Figure:** _BONUS: A [Model](https://cad.onshape.com/documents/ad2a40b906ecdc01a56caf42/w/c05e344fea01cf626c644d42/e/0c0831dc65b5076151e54f24) Plane Engineering Drawing - Exploded View_!
+</p>
+
 ([ back to top ](#back_to_top))
