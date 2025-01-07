@@ -378,3 +378,7 @@ Session 8’s goals include:
 ## Additional Resources
 
 By the end of this 8-session course, hopefully you'll be able to comfortably navigate many of Onshape's features and use them to design lots of great creations. However, there are still many cool functionalities that are worth exploring and we didn't have the time to do so in our class, namely FeatureScript! In essence, FeatureScript allows you to custom code features on Onshape, expanding the limit of what is possible to CAD on the software. Onshape has some great tutorials, such as [this one](https://youtu.be/KVX1xq5UQy0?t=394) and [this one](https://youtu.be/Q9if5oy5-Zw?t=1167), and [documentations](https://cad.onshape.com/FsDoc/index.html) with regards to FeatureScript. If you enjoyed CADding with Onshape and would like to undertake a fun challenge, then definitely check out FeatureScript!
+
+## Enrollment Statistics
+
+This Summer 2024 version of "How to CAD Almost Anything!" saw a total of 38 students signed-up, hailing from 8 MIT departments: 2 (18.4%), 3 (10.5%), 6 (15.8%), 8 (5.3%), 16 (10.5%), 22 (2.6%), TPP (2.6%), MBA (5.3%) and N/A (28.9%).
