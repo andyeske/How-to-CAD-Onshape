@@ -381,4 +381,4 @@ By the end of this 8-session course, hopefully you'll be able to comfortably nav
 
 ## Enrollment Statistics
 
-This Summer 2024 version of "How to CAD Almost Anything!" saw a total of 38 students signed-up, hailing from 8 MIT departments: 2 (18.4%), 3 (10.5%), 6 (15.8%), 8 (5.3%), 16 (10.5%), 22 (2.6%), TPP (2.6%), MBA (5.3%) and N/A (28.9%).
+"How to CAD Almost Anything: MIT Summer 2024!" saw a total of 38 students signed-up, hailing from 8 MIT departments: 2 (18.4%), 3 (10.5%), 6 (15.8%), 8 (5.3%), 16 (10.5%), 22 (2.6%), TPP (2.6%), MBA (5.3%) and N/A (28.9%).
