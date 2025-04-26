@@ -1,5 +1,5 @@
 <a name="back_to_top"></a>
-# How to CAD Almost Anything: MIT Summer 2024!
+# How to CAD Almost Anything: MIT Summer 2024
 Welcome to How to CAD Almost Anything! Onshape edition. In this repository, you'll find the workshop's slides, recordings and Onshape files.
 
 ## Workshop Summary
