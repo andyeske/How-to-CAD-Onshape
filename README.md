@@ -1,12 +1,12 @@
 <a name="back_to_top"></a>
 # How to CAD Almost Anything: MIT Summer 2024
-Welcome to How to CAD Almost Anything! Onshape edition. In this repository, you'll find the workshop's slides, recordings and Onshape files.
+Welcome to How to CAD Almost Anything! Onshape edition. In this repository, you'll find the workshop's slides, recordings and PTC Onshape files.
 
 ## Workshop Summary
 
 Ever wondered how are objects from our daily lives designed? How can we generate a computer 3D model of a MarioKart, a bottle of Diet Coke, or an Ariane 5 rocket? What about designing a model airplane? An apple? In this fun MIT Summer 2024 workshop, you will learn the skills to design all of these, and much more! 
 
-Split into 8 2-hour long sessions, the first half of each session will be spent learning new Onshape skills, while the second half will see the application of these new skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model. 
+Split into 8 2-hour long sessions, the first half of each session will be spent learning new [Onshape](https://www.onshape.com/en/) skills, while the second half will see the application of these new skills through in-class activities, with a focus on reverse engineering. In contrast to traditional mechanical design courses, this workshop places greater emphasis on the design process itself, understanding how we can plan and best leverage our available tools to arrive to our desired result. Thus, the sessions are less about following the instructions on an engineering drawing, and more about independent thinking and strategizing, reverse engineering an object into a 3D model. 
 
 _This course is a sibling version of the original ["How to CAD Almost Anything"](https://github.com/andyeske/How-to-CAD-Almost-Anything) course, adapted into 8, 2-hour long sessions. This course is intended for both existing Solidworks users looking to learn a new CAD software, as well as new users trying to learn how to CAD, especially in a truly free, online software)_
 
@@ -21,6 +21,8 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 **Prerequisites:** Willingness to have fun and think outside the box!
 
 **Course Files:** Available at the [Session Files](https://github.com/andyeske/How-to-CAD-Onshape/tree/main/Session%20Files) folder as well as at the online [Onshape](https://cad.onshape.com/documents?column=name&nodeId=78317e4aded5141df9d6445c&resourceType=folder&sortOrder=asc) library. 
+
+**Software:** PTC [Onshape](https://www.onshape.com/en/). Onshape is a cloud-based software that is available [free of charge](https://www.onshape.com/en/products/free) to students and educators online.
 
 **Notes:**
 * The third session, on 06/18/24, falls on a Tuesday due to the Juneteenth holiday!
@@ -51,7 +53,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Coloring parts and changing material properties.
 
 **Session Activity:** Using the tools learned on Session 1, we’ll design a variety of items, including:
-* A cake
+* A cake.
 * A Casio [MS-80B](https://www.casio.com/us/basic-calculators/product.MS-80B/) 8-digit calculator.
 
 **Session Recordings:** https://www.youtube.com/watch?v=Q_6qtvsd45A.
