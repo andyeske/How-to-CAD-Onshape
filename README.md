@@ -52,7 +52,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Editing sketches and features after creating them.
 * Coloring parts and changing material properties.
 
-**Session Activity:** Using the tools learned on Session 1, we’ll design two objects, namely:
+**Session Activities:** Using the tools learned on Session 1, we’ll design two objects, namely:
 * A cake.
 * A Casio [MS-80B](https://www.casio.com/us/basic-calculators/product.MS-80B/) 8-digit calculator.
 
@@ -83,7 +83,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to use the spline tool.
 * Learning how to add a picture and sketch on it.
 
-**Session Activity:** Using the tools learned on Session 2, we’ll design two objects, namely:
+**Session Activities:** Using the tools learned on Session 2, we’ll design two objects, namely:
 * A [United Airlines safety card](https://i.ebayimg.com/images/g/Ko0AAOSwZr9Zrecv/s-l1600.jpg) (only the front side).
 * A keychain of your favorite logo. 
 
@@ -123,7 +123,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to make use of the mirroring and circular patterns tools, both as a sketch and as a feature.
 * Learning how to create planes, at different angles.
 
-**Session Activity:** Using the tools learned on Session 3, we’ll design two objects, namely:
+**Session Activities:** Using the tools learned on Session 3, we’ll design two objects, namely:
 * A fidget spinner!
 * A medieval ([toy](https://www.maisonette.com/product/my-first-castle)) castle.
 
@@ -166,7 +166,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to use the lofting and sweep command.
 * Continuing to master previously explored tools, such as revolve, linear/circular patterns and plane creation.
 
-**Session Activity:** Using the tools learned on Session 4, we’ll design two objects, namely:
+**Session Activities:** Using the tools learned on Session 4, we’ll design two objects, namely:
 * A simple [marble run](https://montessorigeneration.com/cdn/shop/files/DTdgH93438cac19b64e6581b705060b865e37i_750x750.jpg?v=1704788664), with [rails](https://i.ytimg.com/vi/kPguktA674w/maxresdefault.jpg)!
 * A banana, in honor of the banana lounge (using various plane cuts, splines and lofts).
 
@@ -204,7 +204,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to employ the wrap command (for engravings).
 * Making renders.
 
-**Session Activity:** Using the tools learned on Session 5, we’ll design two objects, namely:
+**Session Activities:** Using the tools learned on Session 5, we’ll design two objects, namely:
 * A Diet Coke [8oz glass bottle](https://beverageuniverse.com/media/catalog/product/cache/93e8b54da979dc164f600faa0f1e0941/c/o/coca-cola-xxxr-xcdc8g-thumb.jpg) (with labels included).
 * A realistic-looking [Ariane 5](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Ariane_5ES_with_ATV_4_on_its_way_to_ELA-3.jpg/1200px-Ariane_5ES_with_ATV_4_on_its_way_to_ELA-3.jpg) rocket. 
 
@@ -247,7 +247,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to make an assembly of multiple parts.
 * Learning (time-permitting) how to make an exploded view of an assembly and subsequentially animating it.
 
-**Session Activity:** Using the tools learned on Session 6, we’ll design a set of objects, namely:
+**Session Activities:** Using the tools learned on Session 6, we’ll design a set of objects, namely:
 * A standard [2x4 LEGO brick](https://p.turbosquid.com/ts-thumb/I9/hYi8QZ/QyaXDmfH/lego_brick_2x4_earth_green_thumbnail_0000/jpg/1558617193/1920x1080/fit_q87/7a98b66fde1c475f97f5367029078a34496d722e/lego_brick_2x4_earth_green_thumbnail_0000.jpg) (as well as a 1x1, 2x1, 2x2, and 2x3).
 * A standard [2x4 LEGO plate](https://www.briquestore.fr/28179-home_default/lego-6286500-plate-2x4-nougat.jpg).
 * A simple [LEGO boat](https://i.ytimg.com/vi/XxITI-DiEKo/maxresdefault.jpg) assembly.
@@ -306,7 +306,7 @@ _This course is a sibling version of the original ["How to CAD Almost Anything"]
 * Learning how to create equations and incorporate them into a design table.
 * Creating configurations of the same model.
 
-**Session Activity:** Using the tools learned on Session 7, we’ll design one object, namely:
+**Session Activities:** Using the tools learned on Session 7, we’ll design one object, namely:
 * A kart from MarioKart, using multiple configurations of kart and wheel sizes, as well as available colors.
 
 **Session Recordings:** https://www.youtube.com/watch?v=KDNyTvzounY.
@@ -337,7 +337,7 @@ Session 8’s goals include:
 * Learning how to create an engineering drawing of a part and assembly (including exploded views).
 * Exploring the best-practices of drawing creation, including different formats and information to be conveyed (such as tolerancing, material properties).
 
-**Session Activity:** Using the tools learned on Session 8, we’ll design a set of objects, namely:
+**Session Activities:** Using the tools learned on Session 8, we’ll design a set of objects, namely:
 * A laser-cuttable [wooden airplane](https://cdn.create.vista.com/api/media/small/179940816/stock-photo-close-view-small-wooden-toy-plane-white) model.
 * A set of engineering drawings of the plane assembly and each of its constituent parts.
 
